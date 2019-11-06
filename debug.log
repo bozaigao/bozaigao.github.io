@@ -1,0 +1,98 @@
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Writing database to /Users/heyanbei/Desktop/github维护项目/bozaigao.github.io/db.json","time":"2019-11-06T04:35:18.805Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Hexo version: \u001b[35m4.0.0\u001b[39m","time":"2019-11-06T04:35:18.813Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Working directory: \u001b[35m~/Desktop/github维护项目/bozaigao.github.io/\u001b[39m","time":"2019-11-06T04:35:18.813Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Config loaded: \u001b[35m~/Desktop/github维护项目/bozaigao.github.io/_config.yml\u001b[39m","time":"2019-11-06T04:35:18.857Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2019-11-06T04:35:18.868Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2019-11-06T04:35:18.869Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2019-11-06T04:35:18.869Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2019-11-06T04:35:18.871Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2019-11-06T04:35:18.885Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-jade\u001b[39m","time":"2019-11-06T04:35:19.001Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2019-11-06T04:35:19.042Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2019-11-06T04:35:19.042Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2019-11-06T04:35:19.071Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Loading database.","time":"2019-11-06T04:35:19.080Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":30,"msg":"Start processing","time":"2019-11-06T04:35:19.108Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2019-11-06T04:35:19.122Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/apple-touch-icon.png\u001b[39m","time":"2019-11-06T04:35:19.133Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/favicon.ico\u001b[39m","time":"2019-11-06T04:35:19.133Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Theme config loaded.","time":"2019-11-06T04:35:19.141Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2019-11-06T04:35:19.141Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/css/highlight-dark.styl\u001b[39m","time":"2019-11-06T04:35:19.148Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/css/highlight.styl\u001b[39m","time":"2019-11-06T04:35:19.149Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/css/style-dark.styl\u001b[39m","time":"2019-11-06T04:35:19.149Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/css/style.styl\u001b[39m","time":"2019-11-06T04:35:19.149Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/iconfont/iconfont.eot\u001b[39m","time":"2019-11-06T04:35:19.149Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/iconfont/iconfont.svg\u001b[39m","time":"2019-11-06T04:35:19.149Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/iconfont/iconfont.ttf\u001b[39m","time":"2019-11-06T04:35:19.149Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/iconfont/iconfont.woff\u001b[39m","time":"2019-11-06T04:35:19.149Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/js/search.json.js\u001b[39m","time":"2019-11-06T04:35:19.149Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/js/toctotop.js\u001b[39m","time":"2019-11-06T04:35:19.150Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/js/totop.js\u001b[39m","time":"2019-11-06T04:35:19.150Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/img/bg-dark.jpg\u001b[39m","time":"2019-11-06T04:35:19.150Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/img/bg.jpg\u001b[39m","time":"2019-11-06T04:35:19.150Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/archive.jade\u001b[39m","time":"2019-11-06T04:35:19.662Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/base.jade\u001b[39m","time":"2019-11-06T04:35:19.662Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/category.jade\u001b[39m","time":"2019-11-06T04:35:19.662Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/index.jade\u001b[39m","time":"2019-11-06T04:35:19.662Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/page.jade\u001b[39m","time":"2019-11-06T04:35:19.662Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/tag.jade\u001b[39m","time":"2019-11-06T04:35:19.662Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/post.jade\u001b[39m","time":"2019-11-06T04:35:19.662Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlanguages/de-DE.yml\u001b[39m","time":"2019-11-06T04:35:19.664Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlanguages/es-ES.yml\u001b[39m","time":"2019-11-06T04:35:19.664Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlanguages/fr-FR.yml\u001b[39m","time":"2019-11-06T04:35:19.664Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlanguages/ko.yml\u001b[39m","time":"2019-11-06T04:35:19.664Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlanguages/en.yml\u001b[39m","time":"2019-11-06T04:35:19.664Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlanguages/tr.yml\u001b[39m","time":"2019-11-06T04:35:19.664Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-CN.yml\u001b[39m","time":"2019-11-06T04:35:19.665Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-TW.yml\u001b[39m","time":"2019-11-06T04:35:19.665Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/share/css/share.styl\u001b[39m","time":"2019-11-06T04:35:19.665Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/share/js/qrcode.js\u001b[39m","time":"2019-11-06T04:35:19.665Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/share/js/social-share.js\u001b[39m","time":"2019-11-06T04:35:19.665Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/share/fonts/iconfont.eot\u001b[39m","time":"2019-11-06T04:35:19.665Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/share/fonts/iconfont.svg\u001b[39m","time":"2019-11-06T04:35:19.666Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/share/fonts/iconfont.ttf\u001b[39m","time":"2019-11-06T04:35:19.666Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35msource/share/fonts/iconfont.woff\u001b[39m","time":"2019-11-06T04:35:19.666Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/after_footer.jade\u001b[39m","time":"2019-11-06T04:35:19.743Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/comment_count.jade\u001b[39m","time":"2019-11-06T04:35:19.743Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/footer.jade\u001b[39m","time":"2019-11-06T04:35:19.743Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/share.jade\u001b[39m","time":"2019-11-06T04:35:19.743Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/paginator.jade\u001b[39m","time":"2019-11-06T04:35:19.743Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/search.jade\u001b[39m","time":"2019-11-06T04:35:19.743Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/comments.jade\u001b[39m","time":"2019-11-06T04:35:19.744Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/post_nav.jade\u001b[39m","time":"2019-11-06T04:35:19.744Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/totop.jade\u001b[39m","time":"2019-11-06T04:35:19.744Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/archive.jade\u001b[39m","time":"2019-11-06T04:35:19.744Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/tag.jade\u001b[39m","time":"2019-11-06T04:35:19.744Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/helpers.jade\u001b[39m","time":"2019-11-06T04:35:19.744Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/category.jade\u001b[39m","time":"2019-11-06T04:35:19.744Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/links.jade\u001b[39m","time":"2019-11-06T04:35:19.744Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/recent_comments.jade\u001b[39m","time":"2019-11-06T04:35:19.744Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/recent_posts.jade\u001b[39m","time":"2019-11-06T04:35:19.744Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/weibo.jade\u001b[39m","time":"2019-11-06T04:35:19.744Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_widget/tag.jade\u001b[39m","time":"2019-11-06T04:35:19.744Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35mlayout/_partial/comments_js.jade\u001b[39m","time":"2019-11-06T04:35:19.755Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-11-06T04:35:19.783Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-11-06T04:35:19.783Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-11-06T04:35:19.783Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-11-06T04:35:19.783Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-11-06T04:35:19.783Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-11-06T04:35:19.783Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-11-06T04:35:19.784Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000\u001b[24m . Press Ctrl+C to stop.","time":"2019-11-06T04:35:19.787Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Database saved","time":"2019-11-06T04:35:19.792Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Rendering HTML index: \u001b[35mindex.html\u001b[39m","time":"2019-11-06T04:35:26.865Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Rendering HTML post: \u001b[35m2019/11/06/hello-world/index.html\u001b[39m","time":"2019-11-06T04:35:33.886Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Rendering HTML archive: \u001b[35marchives/index.html\u001b[39m","time":"2019-11-06T04:35:43.205Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Theme config loaded.","time":"2019-11-06T04:38:30.020Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2019-11-06T04:38:30.020Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-11-06T04:38:30.126Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-11-06T04:38:30.127Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-11-06T04:38:30.127Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-11-06T04:38:30.127Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-11-06T04:38:30.127Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-11-06T04:38:30.127Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-11-06T04:38:30.128Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Rendering HTML archive: \u001b[35marchives/index.html\u001b[39m","time":"2019-11-06T04:38:32.229Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":30,"msg":"Farewell","time":"2019-11-06T04:39:17.867Z","v":0}
+{"name":"hexo","hostname":"heyanbodeMBP.lan","pid":4672,"level":20,"msg":"Database saved","time":"2019-11-06T04:39:17.875Z","v":0}

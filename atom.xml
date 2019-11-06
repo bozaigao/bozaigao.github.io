@@ -5,9 +5,9 @@
   <subtitle>仰望星空的同时不忘脚踏实地</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://bozaigao.github.io/"/>
   <updated>2019-11-06T02:48:46.193Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://bozaigao.github.io/</id>
   
   <author>
     <name>何晏波</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World 你好何晏波</title>
-    <link href="http://yoursite.com/2019/11/06/hello-world/"/>
-    <id>http://yoursite.com/2019/11/06/hello-world/</id>
+    <link href="http://bozaigao.github.io/2019/11/06/hello-world/"/>
+    <id>http://bozaigao.github.io/2019/11/06/hello-world/</id>
     <published>2019-11-06T02:48:46.193Z</published>
     <updated>2019-11-06T02:48:46.193Z</updated>
     

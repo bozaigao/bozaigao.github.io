@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bozaigao.github.io/"/>
-  <updated>2019-11-06T02:48:46.193Z</updated>
+  <updated>2019-11-07T02:46:00.311Z</updated>
   <id>http://bozaigao.github.io/</id>
   
   <author>
@@ -17,24 +17,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World 你好何晏波</title>
-    <link href="http://bozaigao.github.io/2019/11/06/hello-world/"/>
-    <id>http://bozaigao.github.io/2019/11/06/hello-world/</id>
-    <published>2019-11-06T02:48:46.193Z</published>
-    <updated>2019-11-06T02:48:46.193Z</updated>
+    <title>react-native版本升级</title>
+    <link href="http://bozaigao.github.io/2019/09/07/react-native%E7%89%88%E6%9C%AC%E5%8D%87%E7%BA%A7/"/>
+    <id>http://bozaigao.github.io/2019/09/07/react-native版本升级/</id>
+    <published>2019-09-07T01:57:33.000Z</published>
+    <updated>2019-11-07T02:46:00.311Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>w<br>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="1-rn版本从0-51-0升级到0-60-4"><a href="#1-rn版本从0-51-0升级到0-60-4" class="headerlink" title="1. rn版本从0.51.0升级到0.60.4"></a>1. rn版本从0.51.0升级到0.60.4</h3><p>升级目的：rn从0.60.3引入了<strong>Hermes</strong> 新的js引擎，新的引擎从<code>字节码预编译</code>、<code>无JIT</code>、<code>新的垃圾回收策略</code>等优化了Android端apk大小，减少了内存使用，页面切换的帧率也比之前有了提高,本次分享的主题主要是解决在版本升级过程中遇到的问题。</p><h3 id="2-准备工作"><a href="#2-准备工作" class="headerlink" title="2. 准备工作"></a>2. 准备工作</h3><p>项目备份,初始化0.64.0版本的对应项目,保证初始化新项目iOS pod install、android 在target=0.28.0 clean rebuild正常运行,确保环境版本没问题,有问题的话直接查询react-native issue保证项目纯净，能正常运行;</p><h3 id="3-js项目端升级"><a href="#3-js项目端升级" class="headerlink" title="3. js项目端升级"></a>3. js项目端升级</h3><p> 按照官方建议升级步骤,进入要升级的项目先执行react-native-git-upgare脚本自动升级命令,执行该命令会自动覆盖文件,一定记得要备份原项目,然后静静地等待升级完成,如果无法识别该命令,请先执行npm install react-native-git-upgare -g,<br>结果升级中途报错无奈只能改为手动升级;</p><p><img src="/assets/src_1.png" alt="js脚本升级报错"></p><blockquote><p>由于上述操作报错改为手动修改模式,将之前原项目src和package.json里面的依赖全部拷贝到新项目然后执行npm install先安装第三方依赖;</p></blockquote><h3 id="4-iOS原生端升级"><a href="#4-iOS原生端升级" class="headerlink" title="4. iOS原生端升级"></a>4. iOS原生端升级</h3><h4 id="4-1-拷贝iOS原生文件"><a href="#4-1-拷贝iOS原生文件" class="headerlink" title="4.1 拷贝iOS原生文件"></a>4.1 拷贝iOS原生文件</h4><p> 将iOS原生代码和Podfile依赖拷贝到对应位置,然后iOS执行pod install操作;此时有可能依赖的第三方组件会报一下错误:<br><img src="/assets/iOS_1.png" alt="iOS第三方组件依赖报错"></p><h4 id="4-2-修改并保存第三方库文件"><a href="#4-2-修改并保存第三方库文件" class="headerlink" title="4.2 修改并保存第三方库文件"></a>4.2 修改并保存第三方库文件</h4><p> 将iOS第三方包*.podspec里面的s.dependency ‘React/Core’修改为 s.dependency ‘React-Core’然后再重新执行pod install,记得修改后的第三方内容需要单独拷贝出来不然每次执行npm install后都会被覆盖;</p><h4 id="4-3-解决iOS原生端报错"><a href="#4-3-解决iOS原生端报错" class="headerlink" title="4.3 解决iOS原生端报错"></a>4.3 解决iOS原生端报错</h4><p> 如果静待pod install执行完毕没问题后，运行项目可能还会报以下错误:<br><img src="/assets/iOS_2.png" alt="iOS第三方组件依赖报错"><br> 直接将node_modules/react/React里面的React.xcodeproj拖入Libraries即可,切记不要将libReact.a也添加到项目中,否则会和pod依赖的React有多个类重复报错;<br> 幸运的话项目应该可以直接跑起来了，但是跑起来后可能还会报以下运行报错:<br><img src="/assets/iOS_3.png" alt="iOS第三方组件依赖报错"></p><p> 进入项目目录执行</p><figure class="highlight bash"><figcaption><span>git bash</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install --save babel-preset-react-native@5.0.2</span><br></pre></td></tr></table></figure><h4 id="4-4-解决js运行报错"><a href="#4-4-解决js运行报错" class="headerlink" title="4.4 解决js运行报错"></a>4.4 解决js运行报错</h4><p> 解决了上一个问题还可能会报错:<br><img src="/assets/iOS_4.png" alt="iOS第三方组件依赖报错"></p><p> 在.babelrc文件添加以下代码</p><figure class="highlight javascript"><figcaption><span>.babelrc</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;<span class="string">"presets"</span>: [<span class="string">"module:metro-react-native-babel-preset"</span>]&#125;</span><br></pre></td></tr></table></figure><p>然后执行：</p><figure class="highlight bash"><figcaption><span>git bash</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm run start --reset-cache 或者 react-native start --reset-cache</span><br></pre></td></tr></table></figure><p> 最后模拟器运行不报错了但是真机运行却会崩溃，通过文件引用关系发现之前在js层封装了一个uuid的公共方法，但是rn0.60.4版本却会直接报错，关键是通过仅有的堆栈信息无法得知是uuid的问题，<br>通过修改uuid名字得到解决；<br><img src="/assets/iOS_5.png" alt="iOS第三方组件依赖报错"></p><h3 id="5-Android原生端升级"><a href="#5-Android原生端升级" class="headerlink" title="5. Android原生端升级"></a>5. Android原生端升级</h3><h4 id="5-1-拷贝Android原生文件"><a href="#5-1-拷贝Android原生文件" class="headerlink" title="5.1 拷贝Android原生文件"></a>5.1 拷贝Android原生文件</h4><p> 将Android原生代码和app目录下的build.gradle依赖拷贝到对应位置,然后执行sync操作,rn0.60.4依赖的api版本是28，所以可能需要把support包改成AndroidX的引用方式;</p><h4 id="5-2-解决Android端原生报错"><a href="#5-2-解决Android端原生报错" class="headerlink" title="5.2 解决Android端原生报错"></a>5.2 解决Android端原生报错</h4><p> 修改完后build可能会报以下错误：<br><img src="/assets/Android_1.png" alt="Android报错"><br>通过点击AndroidManifest.xml=&gt;Merged Manifest,查看error信息解决<br><img src="/assets/Android_2.png" alt="Android报错"></p><h3 id="6-Android原生端继续报错"><a href="#6-Android原生端继续报错" class="headerlink" title="6. Android原生端继续报错"></a>6. Android原生端继续报错</h3><p><img src="/assets/Android_3.png" alt="Android报错"><br>在app build.gradle我去掉了 annotationProcessor ‘com.github.bumptech.glide:compiler:4.2.0’</p><h3 id="7-升级后的效果"><a href="#7-升级后的效果" class="headerlink" title="7. 升级后的效果"></a>7. 升级后的效果</h3><p>android apk安装包比之前减少了4M左右，内存使用减少了30M左右，页面切换率提高了5～10帧/s<br><img src="/assets/Android_4.png" alt="Android报错"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h3 id=&quot;1-rn版本从0-51-0升级到0-60-4&quot;&gt;&lt;a href=&quot;#1-rn版本从0-51-0升级到0-60-4&quot; class=&quot;headerlink&quot; title=&quot;1. rn版本从0.51.0升级到0.60.4&quot;&gt;&lt;/a&gt;1. rn版本从0.51.0升级到0.
       
     
     </summary>
     
     
+      <category term="react-native" scheme="http://bozaigao.github.io/categories/react-native/"/>
+    
+    
+      <category term="react-native" scheme="http://bozaigao.github.io/tags/react-native/"/>
     
   </entry>
   

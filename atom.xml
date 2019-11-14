@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bozaigao.github.io/"/>
-  <updated>2019-11-14T01:22:28.625Z</updated>
+  <updated>2019-11-14T01:38:03.207Z</updated>
   <id>http://bozaigao.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test2</title>
+    <link href="http://bozaigao.github.io/2019/11/14/test2/"/>
+    <id>http://bozaigao.github.io/2019/11/14/test2/</id>
+    <published>2019-11-14T01:38:03.000Z</published>
+    <updated>2019-11-14T01:38:03.207Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>test</title>

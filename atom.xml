@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bozaigao.github.io/"/>
-  <updated>2019-11-20T08:03:49.374Z</updated>
+  <updated>2019-12-25T00:48:51.059Z</updated>
   <id>http://bozaigao.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>react-native使用chrome调试WebView</title>
+    <link href="http://bozaigao.github.io/2019/12/25/react-native%E4%BD%BF%E7%94%A8chrome%E8%B0%83%E8%AF%95WebView/"/>
+    <id>http://bozaigao.github.io/2019/12/25/react-native使用chrome调试WebView/</id>
+    <published>2019-12-25T00:31:29.000Z</published>
+    <updated>2019-12-25T00:48:51.059Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="react-native使用chrome调试WebView"><a href="#react-native使用chrome调试WebView" class="headerlink" title="react-native使用chrome调试WebView"></a>react-native使用chrome调试WebView</h4><ul><li><p>如果使用的是google模拟器则直接在chrome浏览器输入:chrome://inspect直接进行调试，如果是Android真机则需要去chrome应用商店安装ADB Plugin插件；<br><img src="/assets/webview_debug1.png" alt=""><br><img src="/assets/webview_debug2.jpeg" alt=""><br><img src="/assets/webview_debug3.jpeg" alt=""><br><img src="/assets/webview_debug4.jpeg" alt=""><br><img src="/assets/webview_debug5.jpeg" alt=""><br><img src="/assets/webview_debug6.jpeg" alt=""></p><blockquote><p>chrome应用商店下载插件需要翻墙，搭建教程：<a href="http://bozaigao.github.io/2019/11/07/使用阿里云ECS结合Shadowsocks搭建自己的专属翻墙梯子/">http://bozaigao.github.io/2019/11/07/使用阿里云ECS结合Shadowsocks搭建自己的专属翻墙梯子/</a></p></blockquote></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;react-native使用chrome调试WebView&quot;&gt;&lt;a href=&quot;#react-native使用chrome调试WebView&quot; class=&quot;headerlink&quot; title=&quot;react-native使用chrome调试WebView&quot;&gt;&lt;/a
+      
+    
+    </summary>
+    
+    
+      <category term="react-native" scheme="http://bozaigao.github.io/categories/react-native/"/>
+    
+    
+      <category term="react-native" scheme="http://bozaigao.github.io/tags/react-native/"/>
+    
+      <category term="性能优化" scheme="http://bozaigao.github.io/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
   
   <entry>
     <title>react-native热更新服务搭建</title>

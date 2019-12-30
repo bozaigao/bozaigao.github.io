@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bozaigao.github.io/"/>
-  <updated>2019-12-25T00:48:51.059Z</updated>
+  <updated>2019-12-30T03:49:11.812Z</updated>
   <id>http://bozaigao.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>解决Flutter项目运行报library not found for -libstdc++.6.0.9问题</title>
+    <link href="http://bozaigao.github.io/2019/12/30/%E8%A7%A3%E5%86%B3Flutter%E9%A1%B9%E7%9B%AE%E8%BF%90%E8%A1%8C%E6%8A%A5library-not-found-for-libstdc-6-0-9%E9%97%AE%E9%A2%98/"/>
+    <id>http://bozaigao.github.io/2019/12/30/解决Flutter项目运行报library-not-found-for-libstdc-6-0-9问题/</id>
+    <published>2019-12-30T03:39:22.000Z</published>
+    <updated>2019-12-30T03:49:11.812Z</updated>
+    
+    <content type="html"><![CDATA[<p>在运行Flutter项目的时候由于里面第三方库引用了libstdc++.6.0.9这个库文件而导致项目运行报错问题，苹果在XCode10和iOS12中移除了libstdc++这个库，由libc++这个库取而代之，<br>苹果的解释是libstdc++已经标记为废弃有5年了，建议大家使用经过了llvm优化过并且全面支持C++11的libc++库。</p><blockquote><p>临时解决方法:将-libstdc++.6.0.9库文件导入xcode库文件，两个位置，一套是模拟器的，一套是设备的<br>/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/usr/lib/<br>/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/<br>-libstdc++.6.0.9下载地址:<a href="https://www.bozaigao.net/assets/libstdc++.6.0.9.tbd" target="_blank" rel="noopener">https://www.bozaigao.net/assets/libstdc++.6.0.9.tbd</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在运行Flutter项目的时候由于里面第三方库引用了libstdc++.6.0.9这个库文件而导致项目运行报错问题，苹果在XCode10和iOS12中移除了libstdc++这个库，由libc++这个库取而代之，&lt;br&gt;苹果的解释是libstdc++已经标记为废弃有5年了，
+      
+    
+    </summary>
+    
+    
+      <category term="Flutter" scheme="http://bozaigao.github.io/categories/Flutter/"/>
+    
+    
+      <category term="Flutter" scheme="http://bozaigao.github.io/tags/Flutter/"/>
+    
+      <category term="libstdc++.6.0.9" scheme="http://bozaigao.github.io/tags/libstdc-6-0-9/"/>
+    
+  </entry>
   
   <entry>
     <title>react-native使用chrome调试WebView</title>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bozaigao.github.io/"/>
-  <updated>2020-01-28T15:49:43.362Z</updated>
+  <updated>2020-01-28T15:54:03.052Z</updated>
   <id>http://bozaigao.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://bozaigao.github.io/2020/01/28/fish-redux-demo%E5%9F%BA%E4%BA%8Efish-redux%E7%9A%84Flutter%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
     <id>http://bozaigao.github.io/2020/01/28/fish-redux-demo基于fish-redux的Flutter脚手架/</id>
     <published>2020-01-28T14:11:37.000Z</published>
-    <updated>2020-01-28T15:49:43.362Z</updated>
+    <updated>2020-01-28T15:54:03.052Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="fish-redux-demo"><a href="#fish-redux-demo" class="headerlink" title="fish-redux-demo"></a>fish-redux-demo</h1><p>一个基于fish-redux的Flutter脚手架，包含基本的屏幕适配、全局toast提示、网络请求封装、路由框架集成、网络图片缓存，实现了在fish-redux框架下fluro路由框架的集成、演示了Flutter和WebView的双向通信，实现了在fish-redux模式下的页面跳转传参以及实现AutomaticKeepAliveClientMixin，以及实现了父组件和子组件局部数据和页面之间全局数据共享逻辑，是一个开箱即用不可多得的Flutter项目脚手架。</p><h2 id="效果图如下"><a href="#效果图如下" class="headerlink" title="效果图如下"></a>效果图如下</h2><p><img src="/assets/flutter_1.png" alt=""><br><img src="/assets/flutter_2.png" alt=""><br><img src="/assets/flutter_3.png" alt=""><br><img src="/assets/flutter_4.png" alt=""></p><blockquote><p>出于业务安全考虑，Android和iOS原生端的加密公钥已经被抹掉请直接下载<a href="https://github.com/bozaigao/fish-redux-demo/blob/master/app.apk" target="_blank" rel="noopener">Android release 安装包</a>进行体验，账号:11211110085 密码:123456<br>Taro适配rn、h5、微信小程序友情链接<a href="https://github.com/bozaigao/Taro-demo" target="_blank" rel="noopener">Taro-demo</a></p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h1 id="fish-redux-demo"><a href="#fish-redux-demo" class="headerlink" title="fish-redux-demo"></a>fish-redux-demo</h1><p>一个基于fish-redux的Flutter脚手架，包含基本的屏幕适配、全局toast提示、网络请求封装、路由框架集成、网络图片缓存，实现了在fish-redux框架下fluro路由框架的集成、演示了Flutter和WebView的双向通信，实现了在fish-redux模式下的页面跳转传参以及实现AutomaticKeepAliveClientMixin，以及实现了父组件和子组件局部数据和页面之间全局数据共享逻辑，是一个开箱即用不可多得的Flutter项目脚手架。</p><h2 id="效果图如下"><a href="#效果图如下" class="headerlink" title="效果图如下"></a>效果图如下</h2><p><img src="/assets/flutter_1.png" alt=""><br><img src="/assets/flutter_2.png" alt=""><br><img src="/assets/flutter_3.png" alt=""><br><img src="/assets/flutter_4.png" alt=""></p><blockquote><p>项目地址<a href="https://github.com/bozaigao/fish-redux-demo" target="_blank" rel="noopener">fish-redux-demo</a></p></blockquote><blockquote><p>出于业务安全考虑，Android和iOS原生端的加密公钥已经被抹掉请直接下载<a href="https://github.com/bozaigao/fish-redux-demo/blob/master/app.apk" target="_blank" rel="noopener">Android release 安装包</a>进行体验，账号:11211110085 密码:123456<br>Taro适配rn、h5、微信小程序友情链接<a href="https://github.com/bozaigao/Taro-demo" target="_blank" rel="noopener">Taro-demo</a></p></blockquote>]]></content>
     
     <summary type="html">
     

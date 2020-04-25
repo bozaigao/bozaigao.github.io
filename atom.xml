@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://bozaigao.github.io/"/>
-  <updated>2020-01-28T15:54:03.052Z</updated>
+  <updated>2020-04-25T08:28:28.549Z</updated>
   <id>http://bozaigao.github.io/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于网易云信sdk的Flutter聊天脚手架</title>
+    <link href="http://bozaigao.github.io/2020/04/25/%E5%9F%BA%E4%BA%8E%E7%BD%91%E6%98%93%E4%BA%91%E4%BF%A1sdk%E7%9A%84Flutter%E8%81%8A%E5%A4%A9%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    <id>http://bozaigao.github.io/2020/04/25/基于网易云信sdk的Flutter聊天脚手架/</id>
+    <published>2020-04-25T08:26:11.000Z</published>
+    <updated>2020-04-25T08:28:28.549Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="flutter-server-client"><a href="#flutter-server-client" class="headerlink" title="flutter_server_client"></a>flutter_server_client</h1><p>基于网易云信sdk的Flutter聊天脚手架,主要对网易云信在Android和iOS原生端的聊天api进行了封装，对Android和iOS消息体的不同差异在Flutter端进行了抹平操作，<br>实现了登录、获取最近聊天会话、会话监听、聊天消息监听、onKick被踢单点登录监听，普通文本、emoji、图片、语音的发送和接受、自定义消息的解析和展示、以及历史聊天记录获取等功能，<br>只需简单在iOS端和Flutter端配置一下appkey就可直接账号登录查看，是一个开箱即用的Flutter聊天脚手架；</p><h3 id="key修改地方"><a href="#key修改地方" class="headerlink" title="key修改地方"></a>key修改地方</h3><p><img src="/assets/iOS_key.png" alt="iOS"><br><img src="/assets/flutter_key.png" alt="Flutter"></p><h3 id="iOS效果图"><a href="#iOS效果图" class="headerlink" title="iOS效果图"></a>iOS效果图</h3><p><img src="/assets/login_iOS.png" alt="iOS"><br><img src="/assets/session_iOS.png" alt="iOS"><br><img src="/assets/emoji_iOS.png" alt="iOS"><br><img src="/assets/choosepic_iOS.png" alt="iOS"></p><h3 id="Android效果图"><a href="#Android效果图" class="headerlink" title="Android效果图"></a>Android效果图</h3><p><img src="/assets/login_Android.png" alt="Android"><br><img src="/assets/session_Android.png" alt="Android"><br><img src="/assets/emoji_Android.png" alt="Android"><br><img src="/assets/choosepic_Android.png" alt="Android"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;flutter-server-client&quot;&gt;&lt;a href=&quot;#flutter-server-client&quot; class=&quot;headerlink&quot; title=&quot;flutter_server_client&quot;&gt;&lt;/a&gt;flutter_server_client&lt;/
+      
+    
+    </summary>
+    
+    
+      <category term="Flutter" scheme="http://bozaigao.github.io/categories/Flutter/"/>
+    
+      <category term="NimSDK" scheme="http://bozaigao.github.io/categories/Flutter/NimSDK/"/>
+    
+      <category term="Android" scheme="http://bozaigao.github.io/categories/Flutter/NimSDK/Android/"/>
+    
+      <category term="iOS" scheme="http://bozaigao.github.io/categories/Flutter/NimSDK/Android/iOS/"/>
+    
+    
+      <category term="Flutter" scheme="http://bozaigao.github.io/tags/Flutter/"/>
+    
+      <category term="网易云信" scheme="http://bozaigao.github.io/tags/%E7%BD%91%E6%98%93%E4%BA%91%E4%BF%A1/"/>
+    
+      <category term="聊天" scheme="http://bozaigao.github.io/tags/%E8%81%8A%E5%A4%A9/"/>
+    
+  </entry>
   
   <entry>
     <title>fish-redux-demo基于fish-redux的Flutter脚手架</title>

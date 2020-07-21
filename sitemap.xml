@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://bozaigao.github.io/2020/07/21/js_standard/</loc>
+    
+    <lastmod>2020-07-21T02:50:42.470Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://bozaigao.github.io/2020/07/13/vue_source_analysis/</loc>
     
-    <lastmod>2020-07-19T03:04:55.423Z</lastmod>
+    <lastmod>2020-07-21T01:12:05.084Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bozaigao.github.io/2019/09/06/react-native%25E6%2580%25A7%25E8%2583%25BD%25E4%25BC%2598%25E5%258C%2596/</loc>
+    
+    <lastmod>2020-07-18T15:42:53.604Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bozaigao.github.io/2019/09/07/react-native%25E7%2589%2588%25E6%259C%25AC%25E5%258D%2587%25E7%25BA%25A7/</loc>
+    
+    <lastmod>2020-07-18T10:27:39.545Z</lastmod>
     
   </url>
   
@@ -37,13 +58,6 @@
   </url>
   
   <url>
-    <loc>http://bozaigao.github.io/2019/09/06/react-native%25E6%2580%25A7%25E8%2583%25BD%25E4%25BC%2598%25E5%258C%2596/</loc>
-    
-    <lastmod>2019-12-30T04:05:09.659Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://bozaigao.github.io/2019/12/30/%25E8%25A7%25A3%25E5%2586%25B3Flutter%25E9%25A1%25B9%25E7%259B%25AE%25E8%25BF%2590%25E8%25A1%258C%25E6%258A%25A5library-not-found-for-libstdc-6-0-9%25E9%2597%25AE%25E9%25A2%2598/</loc>
     
     <lastmod>2019-12-30T03:49:11.812Z</lastmod>
@@ -68,13 +82,6 @@
     <loc>http://bozaigao.github.io/2019/11/20/react-native%25E7%2583%25AD%25E6%259B%25B4%25E6%2596%25B0%25E6%259C%258D%25E5%258A%25A1%25E6%2590%25AD%25E5%25BB%25BA/</loc>
     
     <lastmod>2019-11-20T08:03:49.374Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bozaigao.github.io/2019/09/07/react-native%25E7%2589%2588%25E6%259C%25AC%25E5%258D%2587%25E7%25BA%25A7/</loc>
-    
-    <lastmod>2019-11-07T08:08:28.100Z</lastmod>
     
   </url>
   

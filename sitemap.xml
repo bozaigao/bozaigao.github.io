@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://bozaigao.github.io/2020/07/30/%25E6%2589%258B%25E5%2586%2599%25E4%25BB%25A3%25E7%25A0%2581%25E5%25AE%259E%25E7%258E%25B0Redux%25E3%2580%2581React-Redux%25E4%25BB%25A5%25E5%258F%258A%25E4%25B8%25AD%25E9%2597%25B4%25E4%25BB%25B6%25E5%258A%259F%25E8%2583%25BD/</loc>
+    
+    <lastmod>2020-08-02T12:13:23.314Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://bozaigao.github.io/2020/07/21/js_standard/</loc>
     
     <lastmod>2020-07-21T02:50:42.470Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bozaigao.github.io/2019/11/07/%25E4%25BD%25BF%25E7%2594%25A8%25E9%2598%25BF%25E9%2587%258C%25E4%25BA%2591ECS%25E7%25BB%2593%25E5%2590%2588Shadowsocks%25E6%2590%25AD%25E5%25BB%25BA%25E8%2587%25AA%25E5%25B7%25B1%25E7%259A%2584%25E4%25B8%2593%25E5%25B1%259E%25E7%25BF%25BB%25E5%25A2%2599%25E6%25A2%25AF%25E5%25AD%2590/</loc>
+    
+    <lastmod>2020-07-21T01:55:07.600Z</lastmod>
     
   </url>
   
@@ -68,13 +82,6 @@
     <loc>http://bozaigao.github.io/2019/12/25/react-native%25E4%25BD%25BF%25E7%2594%25A8chrome%25E8%25B0%2583%25E8%25AF%2595WebView/</loc>
     
     <lastmod>2019-12-25T00:48:51.059Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bozaigao.github.io/2019/11/07/%25E4%25BD%25BF%25E7%2594%25A8%25E9%2598%25BF%25E9%2587%258C%25E4%25BA%2591ECS%25E7%25BB%2593%25E5%2590%2588Shadowsocks%25E6%2590%25AD%25E5%25BB%25BA%25E8%2587%25AA%25E5%25B7%25B1%25E7%259A%2584%25E4%25B8%2593%25E5%25B1%259E%25E7%25BF%25BB%25E5%25A2%2599%25E6%25A2%25AF%25E5%25AD%2590/</loc>
-    
-    <lastmod>2019-11-22T03:40:04.014Z</lastmod>
     
   </url>
   

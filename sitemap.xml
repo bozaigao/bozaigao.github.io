@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://bozaigao.github.io/2019/12/25/react-native%25E4%25BD%25BF%25E7%2594%25A8chrome%25E8%25B0%2583%25E8%25AF%2595WebView/</loc>
+    
+    <lastmod>2021-03-08T04:27:20.352Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://bozaigao.github.io/2021/02/10/%25E4%25BD%25BF%25E7%2594%25A8Charles%25E8%25BF%259B%25E8%25A1%258CAndroid%25E5%2592%258CiOS%25E6%258A%2593%25E5%258C%2585/</loc>
     
-    <lastmod>2021-02-10T12:00:58.928Z</lastmod>
+    <lastmod>2021-02-10T12:16:10.017Z</lastmod>
     
   </url>
   
@@ -82,13 +89,6 @@
     <loc>http://bozaigao.github.io/2019/12/30/%25E8%25A7%25A3%25E5%2586%25B3Flutter%25E9%25A1%25B9%25E7%259B%25AE%25E8%25BF%2590%25E8%25A1%258C%25E6%258A%25A5library-not-found-for-libstdc-6-0-9%25E9%2597%25AE%25E9%25A2%2598/</loc>
     
     <lastmod>2019-12-30T03:49:11.812Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bozaigao.github.io/2019/12/25/react-native%25E4%25BD%25BF%25E7%2594%25A8chrome%25E8%25B0%2583%25E8%25AF%2595WebView/</loc>
-    
-    <lastmod>2019-12-25T00:48:51.059Z</lastmod>
     
   </url>
   

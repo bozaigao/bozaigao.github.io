@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://bozaigao.github.io/2019/12/25/react-native%25E4%25BD%25BF%25E7%2594%25A8chrome%25E8%25B0%2583%25E8%25AF%2595WebView/</loc>
+    <loc>http://bozaigao.github.io/2021/04/01/%25E5%2585%25B3%25E4%25BA%258ESentrySDK%25E5%259C%25A8react%25E7%25AB%25AF%25E7%259A%2584%25E5%25BC%2580%25E5%258F%2591%25E5%2592%258C%25E9%259B%2586%25E6%2588%2590/</loc>
     
-    <lastmod>2021-03-08T04:27:20.352Z</lastmod>
+    <lastmod>2021-04-01T10:24:40.308Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://bozaigao.github.io/2021/02/10/%25E4%25BD%25BF%25E7%2594%25A8Charles%25E8%25BF%259B%25E8%25A1%258CAndroid%25E5%2592%258CiOS%25E6%258A%2593%25E5%258C%2585/</loc>
     
-    <lastmod>2021-02-10T12:16:10.017Z</lastmod>
+    <lastmod>2021-04-01T08:39:52.958Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bozaigao.github.io/2019/12/25/react-native%25E4%25BD%25BF%25E7%2594%25A8chrome%25E8%25B0%2583%25E8%25AF%2595WebView/</loc>
+    
+    <lastmod>2021-03-08T04:27:20.352Z</lastmod>
     
   </url>
   
